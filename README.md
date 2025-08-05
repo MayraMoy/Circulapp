@@ -1,4 +1,4 @@
-# 🤝 ConectaComunidad
+# 🤝 Circulapp
 
 Plataforma de economía colaborativa que conecta a personas para compartir productos de forma segura, eficiente y confiable. Fomenta el acceso a herramientas, electrodomésticos, muebles y más, mediante préstamos, intercambios o alquileres entre usuarios.
 
@@ -72,7 +72,7 @@ npx expo start
 ## 📁 Estructura del proyecto
 
 ```
-ConectaComunidad/
+Circulapp/
 │
 ├── backend/               # API y lógica de negocio (FastAPI)
 ├── frontend/              # Interfaz web (React)
@@ -101,7 +101,7 @@ Abrí un issue o hacé un pull request.
 ## 📜 Licencia
 
 Este proyecto está bajo la Licencia MIT.
-© 2025 ConectaComunidad. Todos los derechos reservados.
+© 2025 Circulapp. Todos los derechos reservados.
 
 ---
 
