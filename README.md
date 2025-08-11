@@ -1,6 +1,6 @@
 # 🤝 Circulapp
 
-Plataforma de economía colaborativa que conecta a personas para compartir productos de forma segura, eficiente y confiable. Fomenta el acceso a herramientas, electrodomésticos, muebles y más, mediante préstamos, intercambios o alquileres entre usuarios.
+Plataforma de economía colaborativa que conecta a personas para compartir productos de forma segura, eficiente y confiable. Fomenta el acceso a herramientas, electrodomésticos, muebles y más, mediante donaciones de los usuarios.
 
 ---
 
