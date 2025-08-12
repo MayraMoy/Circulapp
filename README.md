@@ -31,7 +31,6 @@ Plataforma de economía colaborativa que conecta a personas para compartir produ
 | Almacenamiento de imágenes | Cloudinary     |
 | Geolocalización | Google Maps API          |
 | Chat         | Firebase Realtime / WebSocket |
-| Pagos (opcional) | Stripe / MercadoPago     |
 
 ---
 
