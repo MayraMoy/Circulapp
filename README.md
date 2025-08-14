@@ -4,8 +4,9 @@ Plataforma de economía colaborativa que conecta a personas para compartir produ
 
 ---
 
-## 📍 Diseño
-- <a href="https://www.figma.com/proto/Qc2f8GJf8JQju95wWrchJv/Circulapp?node-id=1-6&p=f&t=TKgtgjCcaOUaU2sh-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1" target="_blank">Circulapp Diseño Movil</a>
+## 📍 Diseño y Desarrollo
+- <a href="https://www.figma.com/proto/Qc2f8GJf8JQju95wWrchJv/Circulapp?node-id=1-6&p=f&t=TKgtgjCcaOUaU2sh-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1" target="_blank">Circulapp Diseño Movil</a
+- <a href="https://github.com/MayraMoy/circulappFront.git">Desarrollo Movil Repo</a>
 
 ## 🚀 Funcionalidades principales
 
