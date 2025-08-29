@@ -9,6 +9,9 @@ Plataforma de economía colaborativa que conecta a personas para compartir produ
 - <a href="https://github.com/MayraMoy/FirebaseAuthApp.git">Desarrollo Frontend Repo</a>
 - <a href="https://drive.google.com/file/d/13Yih6Wk-hqJUGguvcuWOWHrBEoOP5NcQ/view?usp=sharing">Video de la App Funcionando</a>
 
+## NUEVO INTENTO
+- <a href="https://github.com/MayraMoy/circulapp-backend.git">Backend</a>
+
 ## 🚀 Funcionalidades principales
 
 - ✅ Registro e inicio de sesión de usuarios (email, redes sociales)
